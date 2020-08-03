@@ -1,0 +1,7 @@
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe.config
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.exe
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\bin\Debug\InterfaceAssignment.pdb
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csprojAssemblyReference.cache
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.csproj.CoreCompileInputs.cache
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.exe
+F:\FrameWork\3_rd_august\InterfaceAssignment\InterfaceAssignment\obj\Debug\InterfaceAssignment.pdb

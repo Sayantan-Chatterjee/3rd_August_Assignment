@@ -1,0 +1,7 @@
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe.config
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\bin\Debug\ConsoleAnimal.exe
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\bin\Debug\ConsoleAnimal.pdb
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\obj\Debug\ConsoleAnimal.csprojAssemblyReference.cache
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\obj\Debug\ConsoleAnimal.csproj.CoreCompileInputs.cache
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\obj\Debug\ConsoleAnimal.exe
+F:\FrameWork\3_rd_august\ConsoleAnimal\ConsoleAnimal\obj\Debug\ConsoleAnimal.pdb

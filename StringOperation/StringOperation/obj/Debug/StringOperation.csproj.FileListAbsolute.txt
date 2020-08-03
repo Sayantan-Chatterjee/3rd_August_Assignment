@@ -1,0 +1,6 @@
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\obj\Debug\StringOperation.csproj.CoreCompileInputs.cache
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\bin\Debug\StringOperation.exe.config
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\bin\Debug\StringOperation.exe
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\bin\Debug\StringOperation.pdb
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\obj\Debug\StringOperation.exe
+F:\FrameWork\3_rd_august\StringOperation\StringOperation\obj\Debug\StringOperation.pdb
